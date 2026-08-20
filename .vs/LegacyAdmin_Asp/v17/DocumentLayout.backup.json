@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|d:\\acleda_work\\task-asp-springboot-redis-nextjs\\legacyadmin_asp-ac\\models\\auth\\currentuser.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\auth\\currentuser.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\auth\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\auth\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\controllers\\ssocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:controllers\\ssocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\sso\\ssoissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\sso\\ssoissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\sso\\ssoissueresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\sso\\ssoissueresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\services\\interface\\issoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:services\\interface\\issoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\services\\ssoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:services\\ssoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\helpers\\cookiehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:helpers\\cookiehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\filters\\redisauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:filters\\redisauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\config\\springbootconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:config\\springbootconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\helpers\\currentuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:helpers\\currentuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\filters\\ssoauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:filters\\ssoauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E0B0-6A2E-41E5-9085-BFE17B3C1623}|LegacyAdmin_Asp.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\RedisSessionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SsoService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\SsoService.cs",
+              "RelativeDocumentMoniker": "Services\\SsoService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\SsoService.cs*",
+              "RelativeToolTip": "Services\\SsoService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:44:24.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SsoController.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\SsoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SsoController.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\SsoController.cs",
+              "RelativeToolTip": "Controllers\\SsoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:41:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\AuthUser.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\AuthUser.cs",
+              "RelativeToolTip": "Models\\Auth\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:52:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\CurrentUser.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\CurrentUser.cs",
+              "RelativeToolTip": "Models\\Auth\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T03:46:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:42:35.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\LoginResponse.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:42:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\RefreshTokenRequest.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Auth\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T06:22:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T01:50:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Sidebar.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Sidebar.cshtml*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T04:23:08.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SsoIssueResponse.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Sso\\SsoIssueResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Sso\\SsoIssueResponse.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Sso\\SsoIssueResponse.cs",
+              "RelativeToolTip": "Models\\Sso\\SsoIssueResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:43:31.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SsoIssueRequest.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Sso\\SsoIssueRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Sso\\SsoIssueRequest.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\Sso\\SsoIssueRequest.cs",
+              "RelativeToolTip": "Models\\Sso\\SsoIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:43:40.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISsoService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\Interface\\ISsoService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ISsoService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\Interface\\ISsoService.cs",
+              "RelativeToolTip": "Services\\Interface\\ISsoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:44:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CookieHelper.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Helpers\\CookieHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\CookieHelper.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Helpers\\CookieHelper.cs",
+              "RelativeToolTip": "Helpers\\CookieHelper.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAIAxwKIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:45:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RedisAuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Filters\\RedisAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\RedisAuthorizeAttribute.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Filters\\RedisAuthorizeAttribute.cs",
+              "RelativeToolTip": "Filters\\RedisAuthorizeAttribute.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:58:07.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpringBootConfig.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Config\\SpringBootConfig.cs",
+              "RelativeDocumentMoniker": "Config\\SpringBootConfig.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Config\\SpringBootConfig.cs",
+              "RelativeToolTip": "Config\\SpringBootConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:45:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAEwAYBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T03:56:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IAuthService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA3wA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T03:55:44.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAiwNcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T02:59:06.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T04:23:03.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CurrentUserHelper.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Helpers\\CurrentUserHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\CurrentUserHelper.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Helpers\\CurrentUserHelper.cs",
+              "RelativeToolTip": "Helpers\\CurrentUserHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T03:47:11.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwJoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T04:23:00.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:19:16.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T03:44:51.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T06:15:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:18:49.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:35:02.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:53:20.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SsoAuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Filters\\SsoAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\SsoAuthorizeAttribute.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Filters\\SsoAuthorizeAttribute.cs",
+              "RelativeToolTip": "Filters\\SsoAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:44:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T04:08:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:03:57.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-17T04:18:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwLcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T01:01:31.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-20T02:34:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:30:41.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Views\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Views\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T01:46:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:01:41.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RedisSessionService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\RedisSessionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\RedisSessionService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\RedisSessionService.cs",
+              "RelativeToolTip": "..\\..\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\RedisSessionService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T03:19:54.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\UserService.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\Task-asp-redis-nextjs\\LegacyAdmin_Asp-ac\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T03:19:53.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\ACLEDA_WORK\\Task-asp-springboot-redis-nextjs\\LegacyAdmin_Asp-ac\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T02:51:23.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

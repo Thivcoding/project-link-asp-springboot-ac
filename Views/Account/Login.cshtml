@@ -1,0 +1,184 @@
+﻿@model LegacyAdmin_Asp.Models.Auth.LoginRequest
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible"
+          content="IE=edge" />
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1" />
+
+    <title>
+        Login - Legacy Admin
+    </title>
+
+
+    <!-- Bootstrap 3.3.2 -->
+    <link rel="stylesheet"
+          href="~/Content/AdminLTE/bootstrap/css/bootstrap.min.css" />
+
+    <!-- Font Awesome 4.3.0 -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+    <!-- Ionicons 2.0.0 -->
+    <link rel="stylesheet"
+          href="http://code.ionicframework.com/ionicons/2.0.0/css/ionicons.min.css" />
+
+
+    <!-- AdminLTE -->
+    <link rel="stylesheet"
+          href="~/Content/AdminLTE/dist/css/AdminLTE.min.css" />
+
+
+    <!-- Skin -->
+    <link rel="stylesheet"
+          href="~/Content/AdminLTE/dist/css/skins/skin-blue.min.css" />
+
+</head>
+
+
+<body class="hold-transition login-page">
+
+
+    <div class="login-box">
+
+
+        <!-- Logo -->
+        <div class="login-logo">
+
+            <a href="@Url.Action("Index", "Home")">
+
+                <b>Legacy</b>Admin
+
+            </a>
+
+        </div>
+
+
+        <!-- Login Box -->
+        <div class="login-box-body">
+
+
+            <p class="login-box-msg">
+
+                Sign in to start your session
+
+            </p>
+
+
+            @using (Html.BeginForm(
+                "Login",
+                "Account",
+                FormMethod.Post))
+            {
+
+                @Html.AntiForgeryToken()
+
+
+                <!-- Username -->
+                <div class="form-group has-feedback">
+
+                    @Html.TextBoxFor(
+                        x => x.Username,
+                        new
+                        {
+                            @class = "form-control",
+                            placeholder = "Username",
+                            autocomplete = "username"
+                        })
+
+                    <span class="glyphicon glyphicon-user form-control-feedback"></span>
+
+
+                    @Html.ValidationMessageFor(
+                        x => x.Username,
+                        "",
+                        new
+                        {
+                            @class = "text-danger"
+                        })
+
+                </div>
+
+
+                <!-- Password -->
+                <div class="form-group has-feedback">
+
+                    @Html.PasswordFor(
+                        x => x.Password,
+                        new
+                        {
+                            @class = "form-control",
+                            placeholder = "Password",
+                            autocomplete = "current-password"
+                        })
+
+                    <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+
+
+                    @Html.ValidationMessageFor(
+                        x => x.Password,
+                        "",
+                        new
+                        {
+                            @class = "text-danger"
+                        })
+
+                </div>
+
+
+                <!-- Validation -->
+                @Html.ValidationSummary(
+                    true,
+                    "",
+                    new
+                    {
+                        @class = "text-danger"
+                    })
+
+
+                <!-- Login Button -->
+                <div class="row">
+
+                    <div class="col-xs-12">
+
+                        <button type="submit"
+                                class="btn btn-primary btn-block btn-flat">
+
+                            <i class="fa fa-sign-in"></i>
+
+                            Sign In
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            }
+
+        </div>
+
+    </div>
+
+
+    <!-- jQuery -->
+    <script src="~/Content/AdminLTE/plugins/jQuery/jQuery-2.1.3.min.js"></script>
+
+
+    <!-- Bootstrap -->
+    <script src="~/Content/AdminLTE/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

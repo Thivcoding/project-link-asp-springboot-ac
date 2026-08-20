@@ -1,0 +1,226 @@
+﻿<section class="content-header">
+    <h1>
+        Users
+        <small>User Management</small>
+    </h1>
+
+    <ol class="breadcrumb">
+        <li>
+            <a href="@Url.Action("Index", "Dashboard")">
+                <i class="fa fa-dashboard"></i>
+                Home
+            </a>
+        </li>
+
+        <li class="active">
+            Users
+        </li>
+    </ol>
+</section>
+
+
+<section class="content">
+
+    <!-- USER INFORMATION -->
+    <div class="row">
+
+        <!-- User ID -->
+        <div class="col-lg-3 col-xs-6">
+            <div class="small-box bg-aqua">
+
+                <div class="inner">
+                    <h3>
+                        @ViewBag.UserId
+                    </h3>
+
+                    <p>User ID</p>
+                </div>
+
+                <div class="icon">
+                    <i class="fa fa-user"></i>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Username -->
+        <div class="col-lg-3 col-xs-6">
+            <div class="small-box bg-green">
+
+                <div class="inner">
+                    <h3>
+                        @ViewBag.Username
+                    </h3>
+
+                    <p>Username</p>
+                </div>
+
+                <div class="icon">
+                    <i class="fa fa-user-circle"></i>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Profile -->
+        <div class="col-lg-3 col-xs-6">
+            <div class="small-box bg-yellow">
+
+                <div class="inner">
+                    <h3>
+                        @ViewBag.UserProfile
+                    </h3>
+
+                    <p>User Profile</p>
+                </div>
+
+                <div class="icon">
+                    <i class="fa fa-id-card"></i>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Status -->
+        <div class="col-lg-3 col-xs-6">
+            <div class="small-box bg-red">
+
+                <div class="inner">
+                    <h3>Active</h3>
+
+                    <p>Account Status</p>
+                </div>
+
+                <div class="icon">
+                    <i class="fa fa-check-circle"></i>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- USER MANAGEMENT -->
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <div class="box box-primary">
+
+                <div class="box-header with-border">
+
+                    <h3 class="box-title">
+                        <i class="fa fa-users"></i>
+                        User Management
+                    </h3>
+
+                    <div class="box-tools pull-right">
+
+                        <button type="button"
+                                class="btn btn-primary btn-sm">
+
+                            <i class="fa fa-plus"></i>
+                            Add User
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+
+                <div class="box-body">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-bordered table-hover">
+
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>User ID</th>
+                                    <th>Username</th>
+                                    <th>Profile</th>
+                                    <th>Status</th>
+                                    <th width="150">
+                                        Action
+                                    </th>
+                                </tr>
+                            </thead>
+
+
+                            <tbody>
+
+                                <tr>
+
+                                    <td>1</td>
+
+                                    <td>
+                                        @ViewBag.UserId
+                                    </td>
+
+                                    <td>
+                                        @ViewBag.Username
+                                    </td>
+
+                                    <td>
+                                        @ViewBag.UserProfile
+                                    </td>
+
+                                    <td>
+                                        <span class="label label-success">
+                                            Active
+                                        </span>
+                                    </td>
+
+                                    <td>
+
+                                        <button type="button"
+                                                class="btn btn-info btn-xs">
+                                            <i class="fa fa-eye"></i>
+                                        </button>
+
+                                        <button type="button"
+                                                class="btn btn-warning btn-xs">
+                                            <i class="fa fa-edit"></i>
+                                        </button>
+
+                                        <button type="button"
+                                                class="btn btn-danger btn-xs">
+                                            <i class="fa fa-trash"></i>
+                                        </button>
+
+                                    </td>
+
+                                </tr>
+
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+                </div>
+
+
+                <div class="box-footer">
+
+                    Logged in as:
+
+                    <strong>
+                        @ViewBag.Username
+                    </strong>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
